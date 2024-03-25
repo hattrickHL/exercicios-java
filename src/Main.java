@@ -1,4 +1,5 @@
 public class Main{
+    // exercicio do curso de java da alura
     public static void main(String[] args) {
 
         // 1 - Crie um programa que realize a média de duas notas decimais e exiba o resultado.
